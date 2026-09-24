@@ -1,0 +1,13 @@
+{
+  "name": "firo-school-management-system",
+  "version": "1.0.0",
+  "description": "Fiero School Registry & Student Academic Management Full-Stack System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["school", "grading", "registry", "fiero"],
+  "author": "Chayapol Wongpitirungruang",
+  "license": "ISC"
+}
